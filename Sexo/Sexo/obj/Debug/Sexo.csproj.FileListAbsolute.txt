@@ -1,0 +1,8 @@
+C:\Users\Murbs\source\repos\Sexo\Sexo\obj\Debug\Sexo.csproj.AssemblyReference.cache
+C:\Users\Murbs\source\repos\Sexo\Sexo\obj\Debug\Sexo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Murbs\source\repos\Sexo\Sexo\obj\Debug\Sexo.csproj.CoreCompileInputs.cache
+C:\Users\Murbs\source\repos\Sexo\Sexo\bin\Debug\Sexo.exe.config
+C:\Users\Murbs\source\repos\Sexo\Sexo\bin\Debug\Sexo.exe
+C:\Users\Murbs\source\repos\Sexo\Sexo\bin\Debug\Sexo.pdb
+C:\Users\Murbs\source\repos\Sexo\Sexo\obj\Debug\Sexo.exe
+C:\Users\Murbs\source\repos\Sexo\Sexo\obj\Debug\Sexo.pdb
